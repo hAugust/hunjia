@@ -1,0 +1,447 @@
+@charset "utf-8";
+/*logo*/
+.logo{
+	height: 103px;
+	display: table;
+}
+.logo .log{
+	display: table-cell;
+	vertical-align: middle;
+}
+/*导航*/
+.nav{
+	width: 100%;
+	height: 44px;
+	background: #FB4E7E;
+}
+.nav li{
+	float: left;
+	margin-right: 48px;
+	line-height: 44px;
+}
+.nav li a{
+	color: #fff;
+}
+.wnav{
+	font-size: 14px;
+}
+.nav .navli12{
+	margin-right: 0;
+}
+/*大图*/
+.datu1{
+	margin-top: 13px;
+	width: 297px;
+	height: 560px;
+	overflow: hidden;
+	margin-left: 0;
+	float: left;
+}
+.datul{
+	width: 1485px;
+	height: 560px;
+}
+.datul li{
+	float: left;
+	width: 297px;
+	height: 560px;
+}
+.datu2{
+	margin-top: 13px;
+	margin-left: 3px;
+	float: left;
+}
+.team{
+	margin-left: 20px;
+	width: 245px;
+	float: left;
+	margin-top: 13px;
+	padding: 15px 8px 10px 15px;
+	border: 1px solid #EFEFEF;
+}
+.team .t_li1 h6{
+	font-size: 20px;
+	color: #FB4E7E;
+	float: left;
+}
+.team .t_li1 a{
+	font-size: 14px;
+	color: #666666;
+	float: right;
+}
+.team li{
+	font-size: 14px;
+	line-height: 28px;
+}
+/*婚庆公司*/
+.company h5{
+	font-size: 24px;
+	color: #FB4E7E;
+	padding-left: 20px;
+	border-left: 3px solid #FB4E7E;
+	margin-bottom: 20px;
+	margin-top: 40px;
+}
+.company ul li{
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	border: 2px solid #FDB3C7;
+}
+.company .c_li6{
+	margin-right: 0;
+}
+
+.film{
+	margin-top: 20px;
+	float: left;
+}
+.film h5{
+	color: #FB4E7E;
+	font-size: 24px;
+	padding-left: 20px;
+	border-left: 3px solid #FB4E7E;
+	margin-bottom: 20px;
+}
+.film .f_img{
+	float: left;
+}
+.film .f_div{
+	float: left;
+	width: 305px;
+	margin-left: 19px;
+}
+.film .f_div h6{
+	font-size: 20px;
+	color: #FB4E7E;
+	text-align: center;
+	margin-bottom: 12px;
+}
+.film .f_div p{
+	font-size: 14px;
+	line-height: 24px;
+}
+.film .f_p1{
+	margin-bottom: 8px;
+}
+.film .f_ul img{
+	margin-bottom: 3px;
+}
+.film .f_ul li{
+	float: left;
+	margin-top: 17px;
+	height: 119px;
+	width: 89px;
+	font-size: 12px;
+	text-align: center;
+	margin-right: 19px;
+}
+.film .f_ul .f_li3{
+	margin-right: 0;
+}
+
+.serve{
+	margin-top: 20px;
+	float: right;
+}
+.serve h5{
+	color: #FB4E7E;
+	font-size: 24px;
+	padding-left: 20px;
+	border-left: 3px solid #FB4E7E;
+	margin-bottom: 20px;
+}
+.serve .s_img{
+	float: left;
+}
+.serve .s_div{
+	float: left;
+	width: 305px;
+	margin-left: 19px;
+}
+.serve .s_div h6{
+	font-size: 20px;
+	color: #FB4E7E;
+	text-align: center;
+	margin-bottom: 12px;
+}
+.serve .s_div p{
+	font-size: 14px;
+	line-height: 24px;
+}
+.serve .s_p1{
+	margin-bottom: 8px;
+}
+.serve .s_ul img{
+	margin-bottom: 3px;
+}
+.serve .s_ul li{
+	float: left;
+	margin-top: 17px;
+	height: 119px;
+	width: 89px;
+	font-size: 12px;
+	text-align: center;
+	margin-right: 19px;
+}
+.serve .s_ul .s_li3{
+	margin-right: 0;
+}
+
+
+.company h5{
+	font-size: 24px;
+	color: #FB4E7E;
+	padding-left: 20px;
+	border-left: 3px solid #FB4E7E;
+	margin-bottom: 20px;
+	margin-top: 40px;
+}
+.company ul li{
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	border: 2px solid #FDB3C7;
+}
+.company .c_li6{
+	margin-right: 0;
+}
+/*交友情感*/
+.friend{
+	margin-top: 40px;
+	float: left;
+}
+.friend h5{
+	color: #FB4E7E;
+	font-size: 24px;
+	padding-left: 20px;
+	border-left: 3px solid #FB4E7E;
+	margin-bottom: 20px;
+}
+.friend .f_img{
+	float: left;
+}
+.friend .f_div{
+	float: left;
+	width: 305px;
+	margin-left: 19px;
+}
+.friend .f_div h6{
+	font-size: 20px;
+	color: #FB4E7E;
+	text-align: center;
+	margin-bottom: 12px;
+}
+.friend .f_div p{
+	font-size: 14px;
+	line-height: 24px;
+}
+.friend .f_p1{
+	margin-bottom: 8px;
+}
+.friend .f_ul img{
+	margin-bottom: 3px;
+}
+.friend .f_ul li{
+	float: left;
+	margin-top: 17px;
+	height: 119px;
+	width: 89px;
+	font-size: 12px;
+	text-align: center;
+	margin-right: 19px;
+}
+.friend .f_ul .f_li3{
+	margin-right: 0;
+}
+
+.feel{
+	margin-top: 40px;
+	float: right;
+}
+.feel h5{
+	color: #FB4E7E;
+	font-size: 24px;
+	padding-left: 20px;
+	border-left: 3px solid #FB4E7E;
+	margin-bottom: 20px;
+}
+.feel .s_img{
+	float: left;
+}
+.feel .s_div{
+	float: left;
+	width: 305px;
+	margin-left: 19px;
+}
+.feel .s_div h6{
+	font-size: 20px;
+	color: #FB4E7E;
+	text-align: center;
+	margin-bottom: 12px;
+}
+.feel .s_div p{
+	font-size: 14px;
+	line-height: 24px;
+}
+.feel .s_p1{
+	margin-bottom: 8px;
+}
+.feel .s_ul img{
+	margin-bottom: 3px;
+}
+.feel .s_ul li{
+	float: left;
+	margin-top: 17px;
+	height: 119px;
+	width: 89px;
+	font-size: 12px;
+	text-align: center;
+	margin-right: 19px;
+}
+.feel .s_ul .s_li3{
+	margin-right: 0;
+}
+/*影楼*/
+.build{
+	float: left;
+}
+.build h5{
+	color: #FB4E7E;
+	font-size: 24px;
+	padding-left: 20px;
+	border-left: 3px solid #FB4E7E;
+	margin-bottom: 20px;
+	margin-top: 42px;
+}
+.build ul{
+	width: 929px;
+}
+.build li{
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+/*婚车租赁*/
+.rent{
+	float: left;
+	margin-top: 42px;
+	width: 260px;
+}
+.rent h5{
+	float: left;
+	font-size: 24px;
+	color: #FB4E7E;
+	border-bottom: 2px solid #FB4E7E;
+	padding-bottom: 8px;
+}
+.rent a{
+	float: right;
+	font-size: 14px;
+	color: #444444;
+	line-height: 32px;
+}
+
+.rent li{
+	font-size: 14px;
+	line-height: 32px;
+}
+.rent .rent_li2{
+	border-top: 2px solid #E4E4E4;
+	margin-top: -2px;
+	padding-top: 10px;
+}
+/*寻找车队*/
+.find{
+	float: left;
+	margin-top: 22px;
+	width: 260px;
+}
+.find h5{
+	float: left;
+	font-size: 24px;
+	color: #FB4E7E;
+	border-bottom: 2px solid #FB4E7E;
+	padding-bottom: 8px;
+}
+.find a{
+	float: right;
+	font-size: 14px;
+	color: #444444;
+	line-height: 32px;
+}
+
+.find li{
+	font-size: 14px;
+	line-height: 32px;
+}
+.find .find_li2{
+	border-top: 2px solid #E4E4E4;
+	margin-top: -2px;
+	padding-top: 10px;
+}
+/*幸福瞬间*/
+.happy h5{
+	color: #FB4E7E;
+	font-size: 24px;
+	padding-left: 20px;
+	border-left: 3px solid #FB4E7E;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+.happy img{
+	display: inline-block;
+}
+.happy .happy_ul1{
+	float: left;
+}
+.happy .happy_ul1 li{
+	margin-right: 17px;
+}
+.happy .happy_li1{
+	margin-bottom: 17px;
+}
+.happy .happy_ul2{
+	float: left;
+}
+.happy .happy_ul2 li{
+	float: left;
+	margin-right: 17px;
+	margin-bottom: 17px;
+}
+.happy .happy_ul2 .happy_li5{
+	margin-right: 0;
+}
+.happy .happy_ul3 li{
+	float: left;
+}
+.happy .happy_ul3 .happy_li6{
+	margin-right: 16px;
+}
+/*底部*/
+.footer{
+	width: 100%;
+	height: 300px;
+	background: #FAFAFA;
+	margin-top: 70px;
+	border-top: 1px solid #E5E5E5;
+}
+.footer p{
+	text-align: center;
+	line-height: 30px;
+	color: #666666;
+}
+.footer .fp1{
+	margin-top: 38px;
+}
+.footer a{
+	color: #666666;
+}
+.footer span{
+	margin: 0 4px;
+}
+
+
+
+
+
